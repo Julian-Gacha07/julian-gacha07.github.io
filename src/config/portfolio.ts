@@ -77,7 +77,7 @@ const content = {
       title: "Senior, Deal Advisory",
       subtitle: "Accounting and corporate finance professional with 8+ years of experience, including 5+ years in M&A—supporting buyers and sellers as a senior expert in due diligence, valuation, restructuring, consulting, and project evaluation.",
       greeting: "Hello, I'm",
-      profilePhoto: "/profile-photo.png",
+      profilePhoto: "/profile-photo-julian.png",
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
