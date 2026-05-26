@@ -5,7 +5,8 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? "/gacha07-github.io/" : "/",
+  // User site (Julian-Gacha07/gacha07.github.io) → https://julian-gacha07.github.io/
+  base: "/",
   server: {
     host: "::",
     port: 8080,
